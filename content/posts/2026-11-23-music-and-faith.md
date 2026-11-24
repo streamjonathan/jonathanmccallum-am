@@ -3,7 +3,7 @@ title: "ሙዚቃ እና እምነት"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/lidiya_tadesse7.jpg
 ---
 
 በኢንስታግራም ላይ ሙዚቀኞችን በማዳመጥ ብዙ ጊዜ አሳልፋለሁ። በቅርቡ እያዳመጥኳቸው ያሉት አንዳንዶቹ እነዚህ ናቸው።
@@ -14,70 +14,68 @@ shareImage: /images/music-faith/sonreal.jpg
 
 ሁሉም የአምልኮ ዘፈኖችን እየዘፈኑ አይደለም። አብዛኞቹ ስለ ሕይወት ብቻ ነው የሚዘፍኑት፣ እምነትም የሕይወቱ አካል ነው። ይህን ነው የምወደው። ዘፈኑን በኢንስታግራም ላይ ለማየት ካርዱን ንካ።
 
-ለ SonReal አዲስ ዘፈን ምላሽ ቪዲዮም ሠርቻለሁ። እዚህ ማየት ትችላለህ፦
-
-[ለ SonReal አዲስ ቪዲዮ ያለኝ ምላሽ](https://www.youtube.com/shorts/wePjZMr6beE)
+እነዚህ ዘፈኖች በአማርኛ ናቸው። እነዚህ በአማርኛ የሚዘፍኑ ሙዚቀኞች ናቸው — አንዳንዶቹ የአምልኮ ዘፈኖችን ይዘፍናሉ፣ አንዳንዶቹ ስለ ሕይወት ይዘፍናሉ፣ እምነትም የሕይወቱ አካል ነው።
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">ጥሩ ሙዚቃን ስትሰማ ማወቅ ስለሚቻል የሚያስቅ እና ተስፋ የሚሰጥ ራፕ። መጽሐፍን በሽፋኑ አትፍረድ።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DZ2EGxJunly/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/lidiya_tadesse7.jpg" alt="Lidiya Tadesse" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Lidiya Tadesse</span>
+<span class="ig-card__note">በአማርኛ የአምልኮ ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">"ለአንተ አንድ ወንበር እጠብቃለሁ።" ለስላሳ ዘፈን፣ እና ባዶ ወንበር።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcB9xhVRBaJ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/fl_zinashtayachew.jpg" alt="Zinash Tayachew" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Zinash Tayachew</span>
+<span class="ig-card__note">በአማርኛ ስለ ሕይወትና እምነት ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">የእሷ ዘፈን "Notice" በመጨረሻ ወጥቷል — ለመጀመሪያ ጊዜ ከተጫወተችበት ከአንድ ዓመት በላይ በኋላ።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcvPhTPIcZe/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/wintana_nuredin.jpg" alt="Wintana Nuredin" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Wintana Nuredin</span>
+<span class="ig-card__note">በአማርኛ መዝሙር።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">"Your Heart in the Fire" — ከሰሜን የመጣ ሎ-ፋይ ፎልክ፣ ታማኝ፣ ልምድ ያለው፣ ጥሬ።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdbfEmlMCKB/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/meskerem_getu.jpg" alt="Meskerem Getu" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Meskerem Getu</span>
+<span class="ig-card__note">በአማርኛ የአምልኮ ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">ባለፈው ዓመት ሕይወቱን ለእግዚአብሔር ሰጠ። አሁን ታሪኩን መንገር ይፈልጋል፣ እንዲሁም በዚያ ሂደት ውስጥ እርሱን ማመስገን ይፈልጋል።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DKolvEXMHXh/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/zeritu_kebede.jpg" alt="Zeritu Kebede" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Zeritu Kebede</span>
+<span class="ig-card__note">በአማርኛ ስለ ሕይወትና እምነት ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">የእሱ አዲስ ዘፈን "Not Alone"፣ እና በሳን ፍራንሲስኮ ያለ ክፍል — እያንዳንዱን ቃል እየዘፈነ።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DGdRu1eIbaM/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bethelhem_tezera_official.jpg" alt="Bethelhem Zewdie" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bethelhem Zewdie</span>
+<span class="ig-card__note">በአማርኛ መዝሙር።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">"Secret Fort" — ከቤተ ክርስቲያን ጀርባ ያሉ የልጅነት ቀኖች፣ የምሽት ደወሎች፣ ምርጥ ጓደኞች እና የምናብ ዓለማት።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DT4s5Ckgp9w/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/samueltmichael.jpg" alt="Samuel T Michael" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Samuel T Michael</span>
+<span class="ig-card__note">በአማርኛ የአምልኮ ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">ከሉቃስ 15 የመጣ አዲስ ዘፈን — የጠፋው ልጅ። "Let Me Go".</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DQUlWcVjP9b/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bereket__lemma.jpg" alt="Bereket Lemma" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bereket Lemma</span>
+<span class="ig-card__note">በአማርኛ ስለ ሕይወትና እምነት ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">"ኢየሱስ ቸር ነው። ጉዞ ስጦታ ነው።" የእሷ ዘፈኖች፣ ወደ ቤት ተመልሶ የተጫወቱት።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DFOWrlHoNFd/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/official_abinet_belachew.jpg" alt="Abinet Belachew" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Abinet Belachew</span>
+<span class="ig-card__note">በአማርኛ መዝሙር።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">የእሷ ዘፈን "keep going" — ሕልማዊ ሬትሮ የኢየሱስ ሙዚቃ፣ አሁን ወጥቷል።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DXhoLZfja3O/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/jitu_getachew.jpg" alt="Jitu Getachew" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Jitu Getachew</span>
+<span class="ig-card__note">በአማርኛ የአምልኮ ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">"ስለ ኢየሱስ መስማት ያለበትን ሰው ሁሉም ያውቃል።"</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Da7JKkjIwwI/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/selamawit1322.jpg" alt="Selamawit Melaku" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Selamawit Melaku</span>
+<span class="ig-card__note">በአማርኛ ስለ ሕይወትና እምነት ዘፈኖች።</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">ስለ የአእምሮ ጤንነት ጉዞዋ ዘፈኖች። እነሱም ፖፕ ፓንክ ናቸው።</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df99lmxKwSW/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/yidnekachew_teka_mehamed.jpg" alt="Yidnekachew Teka Mehamed" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Yidnekachew Teka Mehamed</span>
+<span class="ig-card__note">በአማርኛ መዝሙር።</span></span>
 </a>
 </div>
 
